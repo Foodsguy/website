@@ -1,0 +1,79 @@
+h1
+{
+    text-align: center;
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 5px;
+}
+.danger
+{
+    width: 50%;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 250px;
+    height: 250px;
+}
+body
+{
+    background-color: black;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    background-image: url(pictures/background\(1\).png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+table,td,tr
+{
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    color: white;
+    
+}
+.Ishing
+{
+    width: 50%;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+
+}
+.Ishing:hover
+{
+    height: 200px;
+    width: 200px;
+}
+.navbar {
+    overflow: hidden;
+    background-color: black;
+    color: white;
+  }
+  .foot
+  {
+    text-align: center;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 5px;
+    color: white;
+    background-color: black;
+    overflow: hidden;
+    margin-bottom: 0px;
+  }
+  .intro
+  {
+    color: white;
+  }
+  .logo
+  {
+    
+  }
+.invis
+{
+    color: black;
+}
+  
